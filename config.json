@@ -1,0 +1,13 @@
+{
+    "token": "ODkzMDYwMzM0Nzc1MDcwNzgw.YVV9QA.S-Tj203DBpCJmSCR2kmDrBWeb7k",
+    "mongooseConnectionString": "mongodb+srv://Vcut:09196606@cluster0.uh2tu.mongodb.net/test",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    },
+    "owner": "863299202616262677"
+}
